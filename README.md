@@ -35,12 +35,21 @@
 <h3> My Github Stats: </h3>
 
 <p><img align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=king0203&show_icons=true&locale=en&layout=compact"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=king0203&show_icons=false&locale=en&layout=compact&theme=dark"
         alt="king0203" /></p>
+        
+<picture>
+<source 
+  srcset="https://github-readme-stats.vercel.app/api?username=king0203&show_icons=true&theme=dark"
+  media="(prefers-color-scheme: dark)"
+/>
+<source
+  srcset="https://github-readme-stats.vercel.app/api?username=king0203&show_icons=true"
+  media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+/>
+<img src="https://github-readme-stats.vercel.app/api?username=king0203&show_icons=true" />
+</picture>
 
-<p>&nbsp;<img align="center"
-        src="https://github-readme-stats.vercel.app/api?username=king0203&show_icons=true&locale=en"
-        alt="king0203" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king0203&" alt="king0203" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king0203&theme=dark" alt="king0203" />
 </p>
+
