@@ -32,6 +32,7 @@
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> 
+            
 <h3> My Github Stats: </h3>
 
 <p><img align="left"
@@ -53,3 +54,7 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king0203&theme=dark" alt="king0203" />
 </p>
 
+<p>
+<a href="https://app.daily.dev/king0203"><img src="https://api.daily.dev/devcards/69be5928f1494efe8d256da68867125f.png?r=jvp" width="400" alt="Darshan Arkhade's Dev Card"/></a>
+
+</p>
