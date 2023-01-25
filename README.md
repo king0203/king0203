@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Darshan</h1>
-<h2> About Me </h2>
-<h3>🎓I'm a student at ABV-IIITM Gwalior</h3>
+<h2> About Me </h2> 
+<p>
+<a href="https://app.daily.dev/king0203"><img  align="right" src="https://api.daily.dev/devcards/69be5928f1494efe8d256da68867125f.png?r=jvp" width="280" alt="Darshan Arkhade's Dev Card"/></a>
+</p>
+<h3>🎓I'm a student at ABV-IIITM Gwalior</h3> 
 
 - 👀 I’m interested in Web Developement and Blockchain Developement
 
@@ -12,6 +15,7 @@
 
 <hr>
 <h3 align="left">My Skills:</h3>
+       
 <p align="left">
         <a href="https://www.w3schools.com/c/" target="_blank"
         rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
@@ -32,7 +36,9 @@
         target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40" /> </a> 
-            
+
+<hr>
+     
 <h3> My Github Stats: </h3>
 
 <p><img align="left"
@@ -52,9 +58,4 @@
 </picture>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=king0203&theme=dark" alt="king0203" />
-</p>
-
-<p>
-<a href="https://app.daily.dev/king0203"><img src="https://api.daily.dev/devcards/69be5928f1494efe8d256da68867125f.png?r=jvp" width="400" alt="Darshan Arkhade's Dev Card"/></a>
-
 </p>
