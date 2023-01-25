@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Darshan</h1>
-<h2> About Me </h2> 
-<p>
-<a href="https://app.daily.dev/king0203"><img  align="right" src="https://api.daily.dev/devcards/69be5928f1494efe8d256da68867125f.png?r=jvp" width="280" alt="Darshan Arkhade's Dev Card"/></a>
+<h1 align="center">Hi 👋, I'm Darshan</h1> <p>
+<a href="https://app.daily.dev/king0203"><img  align="right" src="https://api.daily.dev/devcards/69be5928f1494efe8d256da68867125f.png?r=jvp" width="300" alt="Darshan Arkhade's Dev Card"/></a>
 </p>
+<h2> About Me </h2> 
+
 <h3>🎓I'm a student at ABV-IIITM Gwalior</h3> 
 
-- 👀 I’m interested in Web Developement and Blockchain Developement
+- 👀 I’m interested in Web Development and Blockchain Development
 
 - 🌱 I’m currently learning React
 
 - 💞️ I’m looking to collaborate on Open Source Projects
 
-- 📫 Want to contact me? DM me on my profile   <a href="https://in.linkedin.com/in/darshan-arkhade-2a021324b">Linkedin</a>,  <a href="https://twitter.com/darshanarkhade">Twitter</a>
+- 📫 Want to contact me? DM me on my profile   <a href="https://in.linkedin.com/in/darshan-arkhade-2a021324b">Linkedin</a>,  <a href="https://twitter.com/darshanarkhade">Twitter</a> 
 
 <hr>
 <h3 align="left">My Skills:</h3>
