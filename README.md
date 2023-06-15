@@ -16,7 +16,7 @@
 <hr>
 <h3 align="left">My Skills:</h3>
        
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,ts,nextjs,nodejs,mongodb,express,postman&perline=10)](https://skillicons.dev)       
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,html,css,js,react,tailwind,ts,nextjs,nodejs,mongodb,express,postman&perline=9)](https://skillicons.dev)       
        
 
 <!--      
